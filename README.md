@@ -1,4 +1,4 @@
-# Togg-Mobile-Application
+# iOSBootcamp-Togg-Mobile-Application
 ⭐️ For IOS Bootcamp.⭐️ 
 
 <img width="350" alt="Ekran Resmi 2022-08-06 22 54 12" src="https://user-images.githubusercontent.com/100840400/183289807-0018a09c-b66a-41da-ac5d-91ae7df35578.png">
